@@ -9,7 +9,7 @@
 	appearance: none;
 
 	&:checked + .backdrop-label-check::before {
-		background-image: url(../../images/full-check.svg);
+		background-image: url(../images/full-check.svg);
 		background-color: $accentBlueColor;
 
 		background-position: 50% 50%;
