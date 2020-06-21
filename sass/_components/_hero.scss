@@ -7,9 +7,8 @@
 	text-align: center;
 
 	background-color: $heroBackgroundColor;
-	// background-image: linear-gradient(to right, $heroBackgroundShadow, $heroBackgroundShadow),
-	// 	url(../../images/header-image-opt.jpg);
-	background-image: url(../../images/header-image-opt.jpg);
+	background-image: linear-gradient(to right, $heroBackgroundShadow, $heroBackgroundShadow),
+		url(../../images/header-image-opt.jpg);
 }
 
 .hero-title {
